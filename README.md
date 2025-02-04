@@ -10,6 +10,8 @@ A well-maintained fork of the [dotenv](https://github.com/dotenv-rs/dotenv) crat
 
 This crate is the suggested alternative for `dotenv` in security advisory [RUSTSEC-2021-0141](https://rustsec.org/advisories/RUSTSEC-2021-0141.html).
 
+The main branch contains the latest unreleased version of dotenvy. The current stable release is [0.15.7](https://docs.rs/dotenvy/0.15.7/dotenvy/).
+
 ## Components
 
 1. [`dotenvy`](https://crates.io/crates/dotenvy) - A well-maintained fork of the `dotenv` crate.
